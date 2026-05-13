@@ -1,4 +1,4 @@
-# Sales Data Analysis - Capstone Project
+# Amazon Sales Analysis: SQL Business Analytics Capstone
 
 ## Purpose
 
